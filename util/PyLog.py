@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 15 15:57:19 2022
-
-Class to add simplified logging to Breadboards
-
-@author: braun_m
-"""
 import os 
 from datetime import datetime
 
